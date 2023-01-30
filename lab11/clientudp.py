@@ -1,5 +1,5 @@
 from socket import *
-serverName = VivoBook4854
+serverName = VivoBook4854-PC
 serverPort = 12000
 clientSocket = socket(AF_INET, SOCK_DGRAM)
 sentence = input("Enter file name")
